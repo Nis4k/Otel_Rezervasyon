@@ -5,3 +5,4 @@ Projem yönetici açısından bir otelin rezervasyon kontrollerini ve rezervasyo
 ![erdiagram](https://github.com/Nis4k/Otel_Rezervasyon/issues/2)
 ![classdiagram](https://github.com/Nis4k/Otel_Rezervasyon/issues/1)
 ##Video
+https://youtu.be/BMgpXJjnq6Q
